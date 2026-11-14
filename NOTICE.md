@@ -1,0 +1,14 @@
+# Notice
+
+Copyright (c) Halo. All rights reserved.
+
+The Notes by Halo desktop application and its companion MCP server bundle
+(`notes-by-halo-mcp`) are proprietary software. They are marked `UNLICENSED` in the
+application's `package.json` and in the bundle's manifest, and no open-source
+license is granted for them.
+
+This public repository exists for distribution only: so that the `.mcpb`
+release files and the MCP Registry metadata (`server.json`) have a public home.
+Making this repository public does not grant any license to copy, modify,
+redistribute, or reuse the software or its contents beyond downloading the
+release files and using them as provided.
